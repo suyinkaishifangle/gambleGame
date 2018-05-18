@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyAdventure", "CrazyAdventure.csproj", "{7CB7F9FF-F472-56DE-1EB0-B4BFC38CF458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyAdventure.Editor", "CrazyAdventure.Editor.csproj", "{4C5DF907-15F3-FDD6-6D86-5A9E9FC1D85B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CB7F9FF-F472-56DE-1EB0-B4BFC38CF458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB7F9FF-F472-56DE-1EB0-B4BFC38CF458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB7F9FF-F472-56DE-1EB0-B4BFC38CF458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB7F9FF-F472-56DE-1EB0-B4BFC38CF458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5DF907-15F3-FDD6-6D86-5A9E9FC1D85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5DF907-15F3-FDD6-6D86-5A9E9FC1D85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5DF907-15F3-FDD6-6D86-5A9E9FC1D85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5DF907-15F3-FDD6-6D86-5A9E9FC1D85B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "damaoxian", "damaoxian.csproj", "{085DB92D-3439-626D-61CF-4835B3D943B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "damaoxian.Editor", "damaoxian.Editor.csproj", "{9D947BF9-5316-D06A-6706-06D2B0805069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{085DB92D-3439-626D-61CF-4835B3D943B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085DB92D-3439-626D-61CF-4835B3D943B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085DB92D-3439-626D-61CF-4835B3D943B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085DB92D-3439-626D-61CF-4835B3D943B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D947BF9-5316-D06A-6706-06D2B0805069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D947BF9-5316-D06A-6706-06D2B0805069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D947BF9-5316-D06A-6706-06D2B0805069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D947BF9-5316-D06A-6706-06D2B0805069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
